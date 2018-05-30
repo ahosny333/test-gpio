@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-These instructions will give details on how to create simple project using TivaWare library and code composer studio to Initialize and use GPIO in EK-TM4C1294XL LaunchPa
+These instructions will give details on how to create simple project using TivaWare library and code composer studio to Initialize and use GPIO in EK-TM4C1294XL LaunchPad
 
 ### Prerequisites
 
@@ -52,7 +52,8 @@ build variables
 Code Composer allows the use of a vars.ini file to define workspace variables and a macros.ini file to define project variables.
 ► create text file to contain the variable name refer to the path of tivaware folder
 ► inside the file type the variable name and path as follow: TIVAWARE_INSTALL = c:\TI\TivaWare_C_Series-2.1.4.178
-► save the file as vars.ini 
+► save the file as vars.ini in your directory folder
+► Right-click on project name in the Project Explorer pane of CCS. Select Import, and then Import … In the next dialog, expand Code Composer Studio. 
 ► Select Build Variables and click Next.  
 ► In the next dialog (shown below), browse to the file you created as vars.ini 
 - Now you can use this variable for the paths that CCS will need to find your files. If, at a later date, you update TivaWare and it has a new folder name, the only edit you need to make is here in vars.ini. If you change workspaces, you will have to re-import vars.ini.    
