@@ -73,6 +73,9 @@ Add the INCLUDE search paths for the header files
 ► In the Add dir to #include search path pane, click the “+” sign next to Add dir to #include search path  (   
 ► add the build variable you created earlier 
 ```
-
+## Sponsored by
+<a href = "https://the-diy-life.co">
+<img src="https://the-diy-life.co/images/logo_diylife.jpg"  width="248" height="248">
+</a>
 
 
